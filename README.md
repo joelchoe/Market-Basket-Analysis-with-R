@@ -1,9 +1,9 @@
 # Market Basket Analysis with R
 ## A step-by-step guide to Market Basket Analysis
 
-Imagine being retail business owner. It is only natural to want to increase the sales of your different products. Suppose for a moment that you would desire to do so, what would you do? Where do you start?
-Suppose you are slightly uncertain as to what (more) you can do or where to start, fret not, I've got you covered! 
-Here, we will be introducing one way you can increase your sales and revenue using hard data and a widely-known concept known as Market Basket Analysis. Do check out the full article on Medium!
+As retail business owners, knowing your customers is imperative. But what would you do and where do you start?
+
+In this article, we will be introducing a way you can get to know your customers using hard data and a widely-known concept known as Market Basket Analysis. Do check out the full article on Medium!
   
  ### Preprocessing
  

@@ -3,7 +3,7 @@
 
 As retail business owners, knowing your customers is imperative. But what would you do and where do you start?
 
-In this article, we will be introducing a way you can get to know your customers using hard data and a widely-known concept known as Market Basket Analysis. Do check out the full article on Medium!
+Here, we will be introducing a way you can get to know your customers using hard data and a widely-known concept known as Market Basket Analysis. Do check out the full article on Medium!
   
  ### Preprocessing
  

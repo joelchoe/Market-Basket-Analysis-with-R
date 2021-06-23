@@ -20,7 +20,7 @@ Here, we will be introducing a way you can get to know your customers using hard
 
 ![image](https://user-images.githubusercontent.com/64979294/122782426-4ca19880-d2e3-11eb-8430-a9ee82f35750.png)
 
-### Visualisations
+### Visualizations
 
 ![image](https://user-images.githubusercontent.com/64979294/122782503-5c20e180-d2e3-11eb-9f23-835ba43c81f3.png)
 

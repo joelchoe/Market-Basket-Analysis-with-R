@@ -1,3 +1,4 @@
+## load libraries
 library(tidyverse)
 library(arules)
 library(arulesViz)
@@ -35,6 +36,8 @@ rules <- apriori(transaction, parameter = list(supp=0.01, conf=0.7, maxlen = 3))
 rules <- sort(rules, by='confidence', decreasing = TRUE)
 View(inspect(rules))
 plot(rules)
+                    
+## visualization of associations
 plot(rules, method = "graph")
 plot(rules, method = "grouped")
 plot(rules, method = "graph", engine = "interactive", shading = NA)
